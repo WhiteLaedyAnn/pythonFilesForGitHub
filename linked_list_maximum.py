@@ -26,3 +26,4 @@ if(head != None):
     print(find_max(node), 'Maximum')
 else:
     print("Empty list\n")
+# находит максимальный элемент в связанном списке целых чисел.
